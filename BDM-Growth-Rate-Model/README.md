@@ -4,10 +4,11 @@
 Support strategic revenue planning for Business Development Managers (BDMs) by building a parametric forecasting model.
 
 ## Approach
-- Collaborated directly with the Chief Revenue Officer under NDA.
-- Gathered and cleansed data from HR, Finance, Sales, and Operations using SQL.
-- Built a dynamic Excel model with input controls for churn rate, rehire rate, ramp-up efficiency, and budget.
-- Enabled scenario planning through visual comparisons of projected vs. modeled revenue.
+- Engaged directly by the Chief Revenue Officer under NDA to develop a dynamic Excel-based model.
+- Coordinated with HR, Finance, Sales, and Operations to gather and cleanse regional/divisional data. using SQL.
+- Used SQL to validate and merge datasets, creating a master table with current and 3-year projections.
+- Designed an Excel interface with control variables (e.g., churn rate, rehire rate, ramp-up efficiency) to simulate growth scenarios.
+- Enabled scenario planning through visual comparisons of projected vs. modeled revenue to identify optimal grwoth parameters.
 
 ## Tools Used
 SQL, Excel, Stakeholder Engagement
