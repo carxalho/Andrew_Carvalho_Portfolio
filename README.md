@@ -32,5 +32,5 @@ Created star-schema models and dashboards to monitor server health and ETL job p
 ## 📬 Contact
 
 - 📧 andrewjfcarvalho@gmail.com
-- 🔗 https://www.linkedin.com/in/andrew-carvalho/
-- 🧠 https://github.com/yourusername
+- 🔗 https://www.linkedin.com/in/andrew-carvalho-218306256/
+- 🧠 https://github.com/carxalho
