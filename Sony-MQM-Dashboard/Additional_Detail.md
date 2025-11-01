@@ -1,4 +1,4 @@
-## 🗂️ Sony MQM Dashboard Automation – Quality Monitoring at Scale
+## 📈 Sony MQM Dashboard Automation – Quality Monitoring at Scale
 
 ### Overview
 Sony required a bespoke dashboard solution to streamline their monthly MQM (Managed Quality Metrics) scorecard review process. Previously, this was a manual, Excel-based workflow involving multiple files and manual aggregation. I led the automation and dashboard development to transform this into a scalable, repeatable BI process using SSIS, SQL Server, and Sisense.
