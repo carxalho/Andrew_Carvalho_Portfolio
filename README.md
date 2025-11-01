@@ -15,15 +15,16 @@ Welcome to my professional portfolio. I'm a Senior Business Intelligence Analyst
 
 ## 📁 Featured Projects
 
-### [/BDM-Growth-Rate-Model/
+### [BDM Growth Rate Model](BDM-Growth-Rate-Model/)
 Parametric forecasting model built for the Chief Revenue Officer to simulate hiring and revenue scenarios. Integrated SQL-cleansed data and Excel-based controls for strategic planning.
 
-### ./Sony-MQM-Dashboard/
+### [Sony MQM Dashboard](Sony-MQM-Dashboard/)
 Automated ingestion and transformation of monthly MQM scorecards using SSIS and SQL. Delivered two Sisense dashboards to analyze translation quality across language pairs.
 
-### [Sisense Governance](./Sisensed Jupyter-based API scripts to extract backend Sisense metadata. Built governance dashboards to monitor dashboard usage, data models, and user activity.
+### [Sisense Governance](Sisense-Governance/)
+Developed Jupyter-based API scripts to extract backend Sisense metadata. Built governance dashboards to monitor dashboard usage, data models, and user activity.
 
-### ./Server-Monitoring/
+### [Server Monitoring](Server-Monitoring/)
 Created star-schema models and dashboards to monitor server health and ETL job performance. Implemented proactive alerts and historical tracking to prevent outages.
 
 ---
