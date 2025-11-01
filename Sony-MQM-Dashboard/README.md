@@ -5,10 +5,10 @@ Automate and enhance monthly MQM scorecard reporting for Sony.
 
 ## Approach
 - Built an SSIS pipeline to ingest and transform manually submitted Excel scorecards.
-- Applied data validation, deduplication, and computed columns using SQL and CTEs.
+- Applied data type validation, deduplication, and computed column logic using CTEs in SQL.
 - Created two Sisense dashboards:
-  - Summary Dashboard: Aggregated metrics like word count, error types, and scores.
-  - Trend Dashboard: Analyzed translation KPIs across language pairs.
+  - Summary Dashboard: Aggregated metrics (e.g., total word count, average score, error types).
+  - Trend Dashboard: Analysed translation KPIs across language pairs (e.g., pass/fail rates, accuracy).
 
 ## Tools Used
 SSIS, SQL Server, Sisense, Excel
