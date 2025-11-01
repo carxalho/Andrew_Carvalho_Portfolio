@@ -16,7 +16,7 @@ Welcome to my professional portfolio. I'm a Senior Business Intelligence Analyst
 ## 📁 Featured Projects
 
 ### ./BDM-Growth-Rate-Model/
-Parametric forecasting model built for the Chief Revenue Officer to simulate hiring and revenue scenarios. Integrated SQL-cleansed data and Excel-based controls for strategic planning.
+Parametric forecasting model built for the C-suite executive to simulate hiring and revenue scenarios. Integrated SQL-cleansed data and Excel-based controls for strategic planning.
 
 ### ./Sony-MQM-Dashboard/
 Automated ingestion and transformation of monthly MQM scorecards using SSIS and SQL. Delivered two Sisense dashboards to analyze translation quality across language pairs.
