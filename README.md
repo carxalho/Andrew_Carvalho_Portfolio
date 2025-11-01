@@ -6,7 +6,7 @@ Welcome to my professional portfolio. I'm a Senior Business Intelligence Analyst
 
 ## 🔧 Skills & Tools
 - **Languages & Querying**: SQL (T-SQL, MySQL), Python, DAX, JavaScript
-- **BI Tools**: Sisense (Certified), Power BI, Tableau, Excel (Advanced)
+- **BI Tools**: Sisense, Power BI, Tableau, Excel (Advanced)
 - **Cloud Platforms**: Google Cloud Platform (BigQuery), AWS
 - **ETL & Data Engineering**: SSIS, SQL Server, MongoDB
 - **Other**: Jupyter, Git, HTML, Project Management
